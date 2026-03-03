@@ -1,6 +1,6 @@
 import Image from "next/image";
-import {Accordion, AccordionItem, AccordionContent, AccordionTrigger} from "@/components/ui/accordion";
-import {Button} from "@/components/ui/button";
+import {Accordion, AccordionItem, AccordionContent, AccordionTrigger} from "@/components/accordion";
+import {Button} from "@/components/button";
 
 export default function Home() {
   return (
